@@ -3,11 +3,17 @@
 The event management system is a web-based application. The objective of this application is to develop a system that effectively manages all the data related to the various events that take place in an organization. The purpose is to maintain a centralized database of all event-related information. The goal is to support various functions and processes necessary to manage the data efficiently.
 
 Project Requirements:
+
 1.Project Name	                     Event Management System in PHP
+
 2.Language Used	                         PHP5.6, PHP7.x
+
 3.Database	                              MySQL 5.x
+
 4.User Interface Design	              HTML, AJAX,JQUERY,JAVASCRIPT
+
 5.Web Browser	                     Mozilla, Google Chrome, IE8, OPERA
+
 6.Software	                         XAMPP / Wamp / Mamp/ Lamp (anyone)
 
 Project Modules
